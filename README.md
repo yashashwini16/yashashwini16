@@ -19,9 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashashwini16&show_icons=true&locale=en" alt="chandansgowda" /></p>
 
-### :fire: My Stats :
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashashwini16&" alt="chandansgowda" /></p>
+### :fire: My Stats :<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashashwini16&" alt="chandansgowda" /></p>
 
 ###  Languages used:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashashwini16&layout=compact&theme=vision-friendly-white)](https://github.com/yashashwini16/github-readme-stats)
