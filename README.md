@@ -23,8 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashashwini16&" alt="chandansgowda" /></p>
 
-###  Languages used:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashashwini16&layout=compact&theme=vision-friendly-white)](https://github.com/yashashwini16/github-readme-stats)
 ### My trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=yashashwini16&theme=onedark)](https://github.com/yashashwini16/github-profile-trophy)                     
 
