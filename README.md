@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashashwini16&label=Profile%20views&color=0e75b6&style=flat" alt="yashaswini" /> </p>
- :woman_technologist: About Me :
+:woman_technologist: About Me :
  
  - :telescope:I am currently working on full stack Development
  - 🌱 I’m currently learning **Data Structure and Algorithm**
@@ -23,8 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashashwini16&" alt="chandansgowda" /></p>
 
-### My trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yashashwini16&theme=onedark)](https://github.com/yashashwini16/github-profile-trophy)                     
 
 
 ### :hammer_and_wrench: Languages and Tools :
