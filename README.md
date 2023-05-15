@@ -16,11 +16,8 @@
 
 
 
-### :fire: Github Stats :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashashwini16&show_icons=true&locale=en" alt="yashaswini" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashashwini16&" alt="yashaswini" /></p>
 
 
 
