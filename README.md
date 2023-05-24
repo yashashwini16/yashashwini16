@@ -16,6 +16,8 @@
 
 -![yash GitHub stats](https://github-readme-stats.vercel.app/api?username=yashashwini16&show_icons=true&theme=radical)
 
+-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashashwini16&layout=compact)](https://github.com/yashashwini16/github-readme-stats)
+
 
 
 
