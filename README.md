@@ -7,6 +7,7 @@
 :woman_technologist: About Me :
  
  - :telescope:I am currently working on **full stack Development**
+ -  ✴️ Interested in mobile app development 
 
 - 💻 All of my projects are available on [GitHub](https://github.com/yashashwinib16)
 
