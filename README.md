@@ -15,7 +15,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-yash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashaswini-b-99b000235/)
 
--![yash GitHub stats](https://github-readme-stats.vercel.app/api?username=yashashwini16&show_icons=true&theme=radical)
+
 
 -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashashwini16&layout=compact)](https://github.com/yashashwini16/github-readme-stats)
 
