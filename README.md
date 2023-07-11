@@ -6,8 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashashwini16&label=Profile%20views&color=0e75b6&style=flat" alt="yashaswini" /> </p>
 :woman_technologist: About Me :
  
- - :telescope:I am currently working on **full stack Development**
- -  ✴️ Interested in mobile app development 
+ - :telescope:I am currently working on **full stack Development** 
 
 - 💻 All of my projects are available on [GitHub](https://github.com/yashashwinib16)
 
