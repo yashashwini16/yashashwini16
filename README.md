@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashaswini B</h1>
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="250"/>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashashwini16&label=Profile%20views&color=0e75b6&style=flat" alt="yashaswini" /> </p>
 :woman_technologist: About Me :
